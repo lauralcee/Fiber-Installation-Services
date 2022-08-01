@@ -1,1 +1,3 @@
-# Fiber-Installation-Services
+# Fiber Installation Services
+The [Fiber installation services](https://networkcableinstall.cablingcompany.co.za/fiber-installations/) is the top-rated Fiber Optic Wiring Company. The Network Installers is the fastest growing fiber optic wiring company in the state of California. It takes more than technology to achieve the best results in fiber optic installation. It takes experience, skills, and genuine commitment to customers.
+Let’s take a closer look at each one. In order to install your own fiber internet, you first need to have an optical network terminal (ONT), also called a fiber network terminal or fiber jack, in your home connecting you to your provider’s network.
